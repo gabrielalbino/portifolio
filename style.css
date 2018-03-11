@@ -1,0 +1,64 @@
+.inicio{
+    background: #1e2a2d;
+    color: 	#fdfde0;
+    padding: 100px;
+}
+
+
+.quem-sou-eu p{
+    margin: 0;
+    font-family: monospace;
+}
+
+.quem-sou-eu{
+    background: #4e5148;
+    color: 	#fdfde0;
+    padding: 100px;
+}
+
+.padded-title{
+    padding-top: 50px;
+}
+
+.inicio p{
+    margin: 0;
+    font-family: monospace;
+}
+
+.right-image-content{
+    padding: 10px;
+    width: 60%;
+    margin-left: 40%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.left-image-content{
+    padding: 10px;
+    width: 60%;
+    margin-top: 50px;
+    margin-right: 40%;
+    text-align: center;
+}
+
+.left-image-content img{
+    padding-right: 20px;
+}
+
+.left-image-content p{
+    margin-left: 20px;
+}
+
+
+.content a{
+    color: #fdfde0;
+    text-decoration: underline;
+}
+
+.content a:hover{
+    color: #fdfde0;
+}
+
+content a:visited{
+    color: #fdfde0;
+}
